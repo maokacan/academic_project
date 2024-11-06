@@ -16,7 +16,7 @@ Welcome to my **Academic Projects** repository! This collection showcases a vari
 
 This section contains projects implemented in the C programming language. These projects focus on low-level programming, memory management, and system-level tasks.
 
-- **String Library**: A custom implementation of string manipulation functions.
+- FIXTHIS(old_v): **String Library**: A custom implementation of string manipulation functions.
 - **Math Functions**: Implementation of basic mathematical functions.
 - **Decimal Numbers**: A library for handling decimal numbers with high precision.
 - **Simple Bash Utility**: A basic bash utility for file manipulation.
