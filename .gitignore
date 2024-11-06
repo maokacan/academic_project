@@ -1,1 +1,8 @@
-.DS_Store
+# Игнорировать все файлы .gitkeep .DS_Store
+**/.gitkeep
+**/.DS_Store
+
+# Игнорировать все содержимое папки .vscode в корне
+.vscode/
+
+
